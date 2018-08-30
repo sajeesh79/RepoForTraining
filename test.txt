@@ -1,1 +1,2 @@
 First line on the file
+Second line on the file - on the master
